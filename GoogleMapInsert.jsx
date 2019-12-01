@@ -46,7 +46,7 @@ const MultipleMarkerMap = props => {
     <div style={{ height: "100vh", width: "100%" }}>
       <GoogleMapReact
         bootstrapURLKeys={{
-          key: "AIzaSyAIFBfstWh9AF9fKp0-Cq_XTEYMx97Kg40"
+          key: "GoogleAPIKey"
         }}
         defaultCenter={{ lat: 33.9592, lng: -118.4194 }}
         defaultZoom={9}
